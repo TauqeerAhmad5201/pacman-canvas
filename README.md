@@ -1,30 +1,6 @@
 # pacman-canvas
 
-Disclaimer
-----------
-
-> I am currenty migrating this project to Typescript and React.
-> You can check it out at https://github.com/platzhersh/pacman-canvas-next (work in progress).
-> I will most probably not further update this repository.
-
-Description
------------
-
-An old classic, re-written in HTML5.
-Visit http://pacman.platzh1rsch.ch to see it live.
-
-Sounds from
-http://soundfxcenter.com/ and http://soundfxnow.com/
-
-If you like this project, feel free to buy me a coffee:
-
-<a href="https://www.buymeacoffee.com/platzh1rsch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
----
-
-# License
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/platzhersh/pacman-canvas">pacman-canvas</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/platzhersh">Platzh1rsch</a> is marked with <a href="LICENSE.md" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
+![image](https://github.com/TauqeerAhmad5201/pacman-canvas/assets/68806440/40d56340-b1a1-4670-a34e-4ff249f0dac2)
 
 # Get started
 
