@@ -4,7 +4,7 @@
 
 # Get started
 
-To just run the game locally, run `npm start`.
+To just run the game locally, run `npm start`. Since the script contains start and node.js command.
 
 If you want to see the console logs in your browser, use the `npm run start:dev` instead.
 
