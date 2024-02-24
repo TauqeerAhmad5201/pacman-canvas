@@ -15,6 +15,6 @@ app.get('/', function (req, res, next) {
     res.sendFile(path.join(__dirname + '/index.htm'));
 });
 
-var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => console.log('Server started at http://localhost:' + PORT));
